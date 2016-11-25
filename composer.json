@@ -1,0 +1,14 @@
+{
+    "name": "jayxhj/thrift-demo",
+    "description": "simple thrift demo written in  Java and PHP",
+    "type": "project",
+    "require": {
+        "apache/thrift": "0.9.3"
+    },
+    "authors": [
+        {
+            "name": "jayxhj",
+            "email": "jayxhj@gmail.com"
+        }
+    ]
+}
